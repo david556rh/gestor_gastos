@@ -1,0 +1,1 @@
+from app.services import categoria_service
